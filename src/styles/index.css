@@ -1,0 +1,28 @@
+body {
+  margin:auto;
+  padding: 0;
+  font-family: sans-serif;
+  width:1000px;
+}
+.cool {
+  height: 400px;
+  width: 400px;
+}
+.nav{
+	height:100px;
+	background-color: rgb(243,98,101);
+	
+}
+.nav a {
+	text-decoration:none;
+	color:white;
+	padding:20px;
+}
+.items {
+	margin: auto;
+}
+.floated {
+	float: right;
+
+}
+
